@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmployeeSpringBoot/EmployeeSpringBoot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirstdemoSpringboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HotelSpringbootProject/HotelSpringbootProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootCurdoperation/springbootCurdoperation" vcs="Git" />
+  </component>
+</project>
